@@ -1,3 +1,10 @@
+![GitHub Discussions](https://img.shields.io/github/discussions/YOUR-USERNAME/pretty)
+![GitHub Repo stars](https://img.shields.io/github/stars/YOUR-USERNAME/pretty?style=social)
+![GitHub forks](https://img.shields.io/github/forks/YOUR-USERNAME/pretty?style=social)
+![Issues](https://img.shields.io/github/issues/YOUR-USERNAME/pretty)
+![License](https://img.shields.io/badge/license-free-brightgreen)
+![Made with ❤️](https://img.shields.io/badge/Made%20With-%F0%9F%92%9C-pink)
+
 # 🌸 Pretty — Open Discussions & Ideas
 
 Welcome!  
